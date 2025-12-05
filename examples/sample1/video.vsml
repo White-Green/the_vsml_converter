@@ -23,10 +23,6 @@
       <aud src="tsumugi.wav" />
     </prl>
     <prl>
-      <txt class="message">sample message</txt>
-      <aud src="metan.wav" />
-    </prl>
-    <prl>
       <txt id="msg">sample message</txt>
       <aud src="zundamon.wav" />
     </prl>
